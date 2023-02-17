@@ -1,5 +1,5 @@
 //first scenario
-// this is higher order function, cause it's return/recived function
+// this is higher order function, cause it's return/recived function or both
 /* function hello() {
   return function () {
     console.log(`Hello World`);
